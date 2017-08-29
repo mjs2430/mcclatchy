@@ -38,7 +38,7 @@ font-family: "mcclatchy-slab";
 font-weight: 800, 600, 500, 400, 300;
 font-style: normal;
 ```
-<h2>You can also select just the fonts you want (for faster load times) by clicking "fonts.css" in this Repo, and copy/pasting the "@font-face" code you need and placing it in your CSS. For example:<h2>
+<h2>You can also select just the fonts you want (for faster load times) by clicking "fonts.css" in this Repo, and copy/pasting the "@font-face" code you need and placing it in your CSS. For example:</h2>
 ```
 @font-face {
     font-family: "lyon";

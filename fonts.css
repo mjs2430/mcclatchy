@@ -1,1 +1,6 @@
-
+@font-face {
+    font-family: "mcclatchy-slab-light";
+    src: url('/fonts/mcclatchy-slab-light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}

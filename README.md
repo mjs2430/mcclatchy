@@ -12,6 +12,15 @@ Utilize the whole CSS file and all the fonts by pasting this in your HTML <head>
 @import url('https://rawgit.com/mjs2430/mcclatchy/master/fonts.css');
 ```
 
+You can also select just the fonts you want (for faster load times) by clicking "fonts.css" in this Repo, and copy/pasting the "@font-face" code you need and placing it in your CSS. For example:
+```
+@font-face {
+    font-family: "lyon";
+    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-black-italic.otf');
+    font-weight: 900;
+    font-style: italic;
+}
+```
 To host other files such as other css files or JS files, follow these instructions:
 
 1. Right click the file on this Repo's homepage

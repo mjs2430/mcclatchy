@@ -1,14 +1,16 @@
 # mcclatchy
 <h1>McClatchy HTTPS Repo</h1>
 
-Utilize this by linking this in your HTML <head>:
-
- href="https://rawgit.com/mjs2430/mcclatchy/master/fonts.css"
+Utilize the whole CSS file and all the fonts by pasting this in your HTML <head>:
+``` 
+ <link rel="stylesheet" href="https://rawgit.com/mjs2430/mcclatchy/master/fonts.css">
+```
  
  or at the top of your CSS file:
 
+```
 @import url('https://rawgit.com/mjs2430/mcclatchy/master/fonts.css');
-
+```
 
 To host other files such as other css files or JS files, follow these instructions:
 
@@ -21,6 +23,3 @@ To host other files such as other css files or JS files, follow these instructio
 7. goto https://rawgit.com/
 8. paste your URL and copy the new URL for development
 
-```
-<body>heloo</body>
-```

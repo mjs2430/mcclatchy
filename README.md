@@ -38,6 +38,15 @@ font-family: "mcclatchy-slab";
 font-weight: 800, 600, 500, 400, 300;
 font-style: normal;
 ```
+<h2>You can also select just the fonts you want (for faster load times) by clicking "fonts.css" in this Repo, and copy/pasting the "@font-face" code you need and placing it in your CSS. For example:<h2>
+```
+@font-face {
+    font-family: "lyon";
+    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-black-italic.otf');
+    font-weight: 900;
+    font-style: italic;
+}
+```
 <h2>To host other files such as other css files or JS files, follow these instructions:</h2>
 
 1. Right click the file on this Repo's homepage

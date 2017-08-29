@@ -21,6 +21,6 @@ To host other files such as other css files or JS files, follow these instructio
 7. goto https://rawgit.com/
 8. paste your URL and copy the new URL for development
 
-'''
+```
 <body>heloo</body>
-'''
+```

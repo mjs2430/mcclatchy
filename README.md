@@ -1,5 +1,5 @@
 # mcclatchy
-<h1>McClatchy HTTPS Repo</h1>
+<h1>Fonts How-To</h1>
 
 Utilize the whole CSS file and all the fonts by pasting this in your HTML <head>:
 ``` 
@@ -38,7 +38,9 @@ font-family: "mcclatchy-slab";
 font-weight: 800, 600, 500, 400, 300;
 font-style: normal;
 ```
-<h2>You can also select just the fonts you want (for faster load times) by clicking "fonts.css" in this Repo, and copy/pasting the "@font-face" code you need and placing it in your CSS. For example:</h2>
+<h2>Only Load Some Fonts</h2>
+
+You can also select just the fonts you want (for faster load times) by clicking "fonts.css" in this Repo, and copy/pasting the "@font-face" code you need and placing it in your CSS. For example:
 ```
 @font-face {
     font-family: "lyon";

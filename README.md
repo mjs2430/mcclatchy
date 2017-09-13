@@ -3,13 +3,13 @@
 
 Utilize the whole CSS file and all the fonts by pasting this in your HTML <head>:
 ``` 
- <link rel="stylesheet" href="https://rawgit.com/mjs2430/mcclatchy/master/fonts.css">
+ <link rel="stylesheet" href="https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts.css">
 ```
  
  or at the top of your CSS file:
 
 ```
-@import url('https://rawgit.com/mjs2430/mcclatchy/master/fonts.css');
+@import url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts.css');
 ```
 next, you would reference each font-family in your CSS, and select a font-weight (these are the naming conventions I used, followed by each available font-weight and style):
 ```
@@ -44,7 +44,7 @@ You can also select just the fonts you want (for faster load times) by clicking 
 ```
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-black-italic.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-black-italic.otf');
     font-weight: 900;
     font-style: italic;
 }

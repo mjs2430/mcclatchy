@@ -1,7 +1,7 @@
 /* Lyon */
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-black-italic.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-black-italic.otf');
     font-weight: 900;
     font-style: italic;
 }

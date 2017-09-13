@@ -53,6 +53,13 @@ You can also select just the fonts you want (for faster load times) by clicking 
 
 1. Right click the file on this Repo's homepage
 2. Copy the link/URL address
+3. Paste the link elswhere so you can edit it
+4. Remove the ```/blob``` part of the URL
+5. Change ```github.com``` to ```cdn.rawgit.com```
+6. Copy/paste that URL for use in other projects.
+
+1. Right click the file on this Repo's homepage
+2. Copy the link/URL address
 3. paste the link elsewhere so you can edit it
 4. remove the /blob part of the url
 5. change github.com to raw.githubusercontent.com

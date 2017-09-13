@@ -49,7 +49,7 @@ You can also select just the fonts you want (for faster load times) by clicking 
     font-style: italic;
 }
 ```
-<h2>To host other files such as other css files or JS files, follow these instructions:</h2>
+<h2>To host other files such as other CSS, JS or image files, follow these instructions:</h2>
 
 1. Right click the file on this Repo's homepage
 2. Copy the link/URL address
@@ -58,6 +58,9 @@ You can also select just the fonts you want (for faster load times) by clicking 
 5. Change ```github.com``` to ```cdn.rawgit.com```
 6. Copy/paste that URL for use in other projects.
 
+
+Depreciated, longer process, here for reference
+```
 1. Right click the file on this Repo's homepage
 2. Copy the link/URL address
 3. paste the link elsewhere so you can edit it
@@ -66,4 +69,4 @@ You can also select just the fonts you want (for faster load times) by clicking 
 6. copy that new URL
 7. goto https://rawgit.com/
 8. paste your URL and copy the new URL for development
-
+```

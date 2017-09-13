@@ -7,67 +7,67 @@
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-black.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-black.otf');
     font-weight: 900;
     font-style: normal;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-bold-italic.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-bold-italic.otf');
     font-weight: 800;
     font-style: italic;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-bold.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-bold.otf');
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-light.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-light.otf');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-light-italic.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-light-italic.otf');
     font-weight: 300;
     font-style: italic;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-medium-italic.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-medium-italic.otf');
     font-weight: 500;
     font-style: italic;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-medium.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-medium.otf');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-regular-italic.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-regular-italic.otf');
     font-weight: 400;
     font-style: italic;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-regular.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-regular.otf');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-semi-italic.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-semi-italic.otf');
     font-weight: 600;
     font-style: italic;
 }
 @font-face {
     font-family: "lyon";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/lyon-semi.otf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/lyon-semi.otf');
     font-weight: 600;
     font-style: normal;
 }
@@ -75,43 +75,43 @@
 /*********** McClatchy Sans ***********/
 @font-face {
     font-family: "mcclatchy-sans";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-black.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-black.ttf');
     font-weight: 900;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-sans";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-bold.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-bold.ttf');
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-sans";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-light.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-light.ttf');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-sans";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-medium.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-medium.ttf');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-sans";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-regular.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-regular.ttf');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-sans";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-semi.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-semi.ttf');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-sans";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-thin.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-thin.ttf');
     font-weight: 200;
     font-style: normal;
 }
@@ -119,25 +119,25 @@
 /************ McClatchy Sans Condensed **************/
 @font-face {
     font-family: "mcclatchy-sans-cond";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-cond-bold.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-cond-bold.ttf');
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-sans-cond";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-cond-demi.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-cond-demi.ttf');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-sans-cond";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-cond-medium.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-cond-medium.ttf');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-sans-cond";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-cond-regular.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-sans-cond-regular.ttf');
     font-weight: 400;
     font-style: normal;
 }
@@ -145,25 +145,25 @@
 /************ McClatchy Serif **************/
 @font-face {
     font-family: "mcclatchy-serif";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-serif-bold.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-serif-bold.ttf');
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-serif";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-serif-medium.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-serif-medium.ttf');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-serif";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-serif-regular.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-serif-regular.ttf');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-serif";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-serif-semi.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-serif-semi.ttf');
     font-weight: 600;
     font-style: normal;
 }
@@ -171,31 +171,31 @@
 /***************** McClatchy Slab **************/
 @font-face {
     font-family: "mcclatchy-slab";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-light.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-light.ttf');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-slab";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-bold.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-bold.ttf');
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-slab";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-demi.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-demi.ttf');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-slab";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-medium.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-medium.ttf');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: "mcclatchy-slab";
-    src: url('https://raw.githubusercontent.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-regular.ttf');
+    src: url('https://cdn.rawgit.com/mjs2430/mcclatchy/master/fonts/mcclatchy-slab-regular.ttf');
     font-weight: 400;
     font-style: normal;
 }

@@ -102,8 +102,8 @@ Market podcast section
 margin: 0px -5px 0 -5px;
 
 }
+
 .market .card .subscribe-section .source {
-  border-right: 1px solid #cdcdcd;
   height: 50px;
   width: 30%;
   display: -ms-grid;
@@ -120,37 +120,48 @@ margin: 0px -5px 0 -5px;
 .market .card .subscribe-section .source .subscribe-link {
   margin: 0;
 }
-.market .card .subscribe-section .apple {
-  width: 100px;
-  margin-left: -7px;
-}
+
 .market .card .subscribe-section .apple img {
-  margin: 0 auto 5px;
   width: 22px;
 }
-.market .card .subscribe-section .soundcloud {
-  width: 85px;
-  padding-top: 10px;
-}
+
 .market .card .subscribe-section .soundcloud img {
   width: 39px;
-  margin: 0 auto 5px;
 }
-.market .card .subscribe-section .stitcher {
-  width: 60px;
-  padding-top: 13px;
-}
+
 .market .card .subscribe-section .stitcher img {
   width: 34px;
-  margin: 0 6px 6px 8px;
 }
-.market .card .subscribe-section .google {
-  width: 75px;
-  padding-top: 4px;
-}
+
 .market .card .subscribe-section .google img {
   width: 23px;
-  margin: 0 6px 5px 10px;
+}
+
+.subscribe-section {
+  display: flex;
+}
+
+.subscribe-section > a {
+  display: flex;
+  align-items: center;
+ justify-content: flex-end;
+	flex-direction: column;
+	text-align: center;
+  color: #b20009;
+  font-size: 12px;
+  text-decoration: none;
+  padding: 0 5px;
+  border-left: 1px solid #cdcdcd;
+}
+
+.subscribe-section > a:first-child {
+  border-left: none;
+  padding-left: 0;
+}
+
+.subscribe-section img {
+  width: 22px;
+  margin-right: 5px;
 }
 
 /******* 
